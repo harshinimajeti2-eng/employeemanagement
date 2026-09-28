@@ -1,0 +1,12 @@
+<form>
+<label>name<label>
+<input type="text"id="name"required placeholder><br>
+</label>username:</label>
+<input type="text"id="name"required p.h><br>
+<label>email:</label>
+<input type="email"required placeholder="enter your email"><br>
+<label>password:</label>
+<input type="password"id="password"required placeholder="enter your password"><br>
+<button type="submit">register</button>
+<p>already have an account?<ahref="login.html">login</ahref>a></p>
+</form>
